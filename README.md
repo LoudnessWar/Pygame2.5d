@@ -17,3 +17,4 @@ control of your screen and camera then what you are given through this is probab
 
 Also its not really 2.5D this project is more like you can just control a plain that is the screen however you want
 
+lol I want to change some of this
